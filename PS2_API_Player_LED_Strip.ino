@@ -10,8 +10,8 @@
 
 #define PIN 12
 
-const char* SSID = "Untrusted Network";
-const char* PSK = "Fanta113#";
+const char* SSID = "SSID";
+const char* PSK = "PW";
 
 char serverAddress[] = "census.daybreakgames.com";  // server address
 int port = 80;
